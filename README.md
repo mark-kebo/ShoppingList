@@ -1,6 +1,6 @@
 # ShoppingList
 
-App functionality
+App functionality<br>
 The application should have the following screens:
 ● Current lists
 ● Archived lists
